@@ -5,49 +5,25 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Content Include="Documentation\assets\css\documenter_style.css" />
+    <Content Include="Documentation\assets\css\img\info.png" />
+    <Content Include="Documentation\assets\css\img\warning.png" />
+    <Content Include="Documentation\assets\images\Thumbs.db" />
+    <Content Include="Documentation\assets\js\google-code-prettify\prettify.css" />
+    <Content Include="Documentation\assets\js\google-code-prettify\prettify.js" />
+    <Content Include="Documentation\assets\js\jquery-1.11.0.min.js" />
+    <Content Include="Documentation\assets\js\jquery.easing.js" />
+    <Content Include="Documentation\assets\js\jquery.js" />
+    <Content Include="Documentation\assets\js\jquery.scrollTo.js" />
+    <Content Include="Documentation\assets\js\script.js" />
+    <Content Include="Documentation\index.html" />
+  </ItemGroup>
+
+  <ItemGroup>
     <None Include="wwwroot\css\app.css" />
-    <None Include="wwwroot\Documentation\assets\css\documenter_style.css" />
-    <None Include="wwwroot\Documentation\assets\css\img\info.png" />
-    <None Include="wwwroot\Documentation\assets\css\img\warning.png" />
-    <None Include="wwwroot\Documentation\assets\images\Thumbs.db" />
-    <None Include="wwwroot\Documentation\assets\js\google-code-prettify\prettify.css" />
-    <None Include="wwwroot\Documentation\assets\js\google-code-prettify\prettify.js" />
-    <None Include="wwwroot\Documentation\assets\js\jquery-1.11.0.min.js" />
-    <None Include="wwwroot\Documentation\assets\js\jquery.easing.js" />
-    <None Include="wwwroot\Documentation\assets\js\jquery.js" />
-    <None Include="wwwroot\Documentation\assets\js\jquery.scrollTo.js" />
-    <None Include="wwwroot\Documentation\assets\js\script.js" />
-    <None Include="wwwroot\Documentation\index.html" />
     <None Include="wwwroot\fonts\ionicons.eot" />
     <None Include="wwwroot\fonts\ionicons.svg" />
     <None Include="wwwroot\fonts\ionicons.woff" />
-    <None Include="wwwroot\images\client-1.png" />
-    <None Include="wwwroot\images\client-2.png" />
-    <None Include="wwwroot\images\client-3.png" />
-    <None Include="wwwroot\images\client-4.png" />
-    <None Include="wwwroot\images\client-5.png" />
-    <None Include="wwwroot\images\clients-bg-img.jpg" />
-    <None Include="wwwroot\images\favico.png" />
-    <None Include="wwwroot\images\gallery-img1.png" />
-    <None Include="wwwroot\images\gallery-img2.png" />
-    <None Include="wwwroot\images\gallery-img3.png" />
-    <None Include="wwwroot\images\gallery-img4.png" />
-    <None Include="wwwroot\images\gallery-img5.png" />
-    <None Include="wwwroot\images\gallery-img6.png" />
-    <None Include="wwwroot\images\ico1.png" />
-    <None Include="wwwroot\images\ico2.png" />
-    <None Include="wwwroot\images\ico3.png" />
-    <None Include="wwwroot\images\ico4.png" />
-    <None Include="wwwroot\images\ico5.png" />
-    <None Include="wwwroot\images\reserv-img.jpg" />
-    <None Include="wwwroot\images\slide1.jpg" />
-    <None Include="wwwroot\images\slide2.jpg" />
-    <None Include="wwwroot\images\sp-img1.jpg" />
-    <None Include="wwwroot\images\sp-img2.jpg" />
-    <None Include="wwwroot\images\sp-img3.jpg" />
-    <None Include="wwwroot\images\sp-img4.jpg" />
-    <None Include="wwwroot\images\story-img.png" />
-    <None Include="wwwroot\images\testimonials-img.jpg" />
     <None Include="wwwroot\index.html" />
     <None Include="wwwroot\js\app.js" />
     <None Include="wwwroot\js\jquery.flexslider.js" />
